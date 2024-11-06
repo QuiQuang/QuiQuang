@@ -1,17 +1,73 @@
-<h1 align="center">Hi 👋, I'm QuiQuang</h1>
-<h3 align="center">Having a passion for AI !!! 🔥🔥🔥</h3>
+<p align="center">
+  <h1 align="center">Welcome to <a href="https://github.com/QuiQuang">Qui QUàng</a>'s Profile 👋</h1>
+</p>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
+</p>
+<p>I am a front-end developer, I'm a Competitive Programmer, I also like to create projects in Flask.</p>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<ul>
+  <li>👋 Hi, I’m @QuiQuang</li>
+  <li>❤️ I love creating and training AI models in Python.</li>
+  <li>🌱 I’m currently studying Computer Science with a focus on AI and machine learning.</li>
+  <li>💼 I'm an AI Engineer and Researcher.</li>
+</ul>
 
+#### A little more about me
+```python
+quiquang = {
+  "pronouns": "He",
+  "code": ["Python", "C++", "Java", "Javascript"],
+  "askMeAbout": ["AI", "Arduino", "Robot", "Data"],
+  "technologies": {
+      "AI": ["Pytorch", "Tensorflow", "wandb", "huggingface"],
+      "Data": ["Qdrant", "MySQL", "NoSQL", "Spark", "Hadoop"],
+      "Other": ["Linux", "Docker"]
+  }
+}
+```
 
+#### Trophies
 
-- 🌱 I’m currently learning **AI - HCMUS**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=QuiQuang&row=2&column=6&theme=onedark&column=8&no-frame=false&no-bg=false" alt="QuiQuang"></a></p>
 
-- 📫 How to reach me **huyhoangdinhcong2003@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/dinhchhoang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="huy hoàng" height="30" width="40" /></a>
-<a href="https://instagram.com/_quiquanggg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_quiquanggg" height="30" width="40" /></a>
+#### Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=QuiQuang&show_icons=true&include_all_commits=true&theme=onedark" alt="Badri's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=QuiQuang&layout=compact&theme=onedark" />
+</a>
+<br />
+<br />
+<p align="center">
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=QuiQuang&theme=onedark" alt="QuiQuang" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+#### I'm a Night Owl 🦉
+```text
+🌞 Morning    ~ commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   ~ % 
+🌆 Daytime    ~ commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   ~ % 
+🌃 Evening    ~ commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   ~ % 
+🌙 Night      ∞ commits     █████████████████████████   ∞ %
+```
+
+#### I Spent My Time On
+```text
+📈 Top AI trends:
+Knowledge graph              ████████████░░░░░░░░░░░░░   50% 
+Generative AI                ██████░░░░░░░░░░░░░░░░░░░   25% 
+Natural language processing  ████░░░░░░░░░░░░░░░░░░░░░   15% 
+Multimodal                   ███░░░░░░░░░░░░░░░░░░░░░░   10%
+
+🔥 Editors:
+VS Code                      ██████████████░░░░░░░░░░░   5% 
+Colab                        ███████░░░░░░░░░░░░░░░░░░   25%
+Kaggle                       ███████░░░░░░░░░░░░░░░░░░   25%
+
+💻 Operating System:
+Linux Ubuntu                 ████████████████████████░   99%
+Window ~ for game            █░░░░░░░░░░░░░░░░░░░░░░░░   1%
+```
+-----
